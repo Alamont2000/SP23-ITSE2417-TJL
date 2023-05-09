@@ -22,7 +22,7 @@ public class Itse2417Main
     // static variables that can be referenced using Itse2417Main. references
     // DO NOT CHANGE!
     // ***********************************************************
-    static String semester = "Fall 2022";
+    static String semester = "Spring 2023";
     static Scanner myScan = new Scanner(System.in);
 
     /**
@@ -53,7 +53,7 @@ public class Itse2417Main
             new FinalProj(),          // Gutt
             new FinalProj(),          // James
             new FinalProj(),          // Johnson
-            new FinalProj(),          // Lupinacci
+            new LupinacciMenu(),          // Lupinacci
             new FinalProj(),          // Moreno
             new FinalProj(),          // Pair
             new FinalProj(),          // Publico
